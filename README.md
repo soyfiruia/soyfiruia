@@ -58,7 +58,7 @@ SoyFiruIA es un agente digital 24/7 que:
 
 ## 📬 Contacto
 
-**Email:** contacto@firulaix.org  
+**Email:** info@bodegabitcoin.net  
 **Sitio Fundación:** [https://worldanimalregistry.org](https://worldanimalregistry.org)
 
 ---
