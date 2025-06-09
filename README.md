@@ -32,7 +32,8 @@ SoyFiruIA es un agente digital 24/7 que:
 
 ---
 
-## 🌍 Impacto social
+## 🌍 Impacto social  
+
 
 - Clínicas veterinarias en parques públicos
 - Trazabilidad de vacunas, genealogía y salud
@@ -40,6 +41,9 @@ SoyFiruIA es un agente digital 24/7 que:
 - Fomento de tenencia responsable en América Latina y EE.UU.
 
 ---
+## Logo Token
+
+![Logo Token](https://github.com/user-attachments/assets/de233579-8107-471a-aeee-10921342f6da)
 
 
 ---
